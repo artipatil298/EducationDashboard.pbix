@@ -1,0 +1,5 @@
+Resource_ID,Resource_Type,Quantity,Department_Class
+101,Books,50,10A
+102,Computers,20,10A
+103,Labs,2,10B
+104,Books,30,10B
